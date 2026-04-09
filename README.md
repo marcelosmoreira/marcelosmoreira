@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=marcelosmoreira&theme=midnight_purple" />
+<img align="right" width="280" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marcelosmoreira&layout=donut&theme=midnight-purple&hide_border=true" />
 
 ### 🧠 Sobre mim
 
