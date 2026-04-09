@@ -99,9 +99,8 @@ public class MarceloSampaio extends FullstackDeveloper {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelosampaiom)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelosampaiocontato@gmail.com)
 
 </div>
 
@@ -109,13 +108,13 @@ public class MarceloSampaio extends FullstackDeveloper {
 
 <div align="center">
 
-![Snake animation](https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/marcelosmoreira/marcelosmoreira/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SEU_USERNAME.SEU_USERNAME)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marcelosmoreira.marcelosmoreira)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
