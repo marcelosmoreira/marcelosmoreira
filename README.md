@@ -1,43 +1,87 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=120&text=Marcelo%20Sampaio&fontColor=ffffff&fontSize=40&fontAlignY=55&desc=Fullstack%20Developer%20•%20Brasil%20🇧🇷&descSize=16&descAlignY=80&descColor=aaaaff)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,12&height=200&section=header&text=Marcelo%20Sampaio&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=⚡%20Fullstack%20Developer%20⚡&descAlignY=58&descSize=22&descColor=a78bfa" />
 
 <br/>
 
-> *"Entendo o problema, projeto a solução, escrevo o código."*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&height=60&lines=Java+%7C+TypeScript+%7C+Python+%F0%9F%94%A5;Do+banco+de+dados+ao+browser+%F0%9F%8C%90;Código+que+resolve+%E2%9C%94%EF%B8%8F+%E2%80%94+sem+enrolação)](https://git.io/typing-svg)
 
 <br/>
 
-### 👤 Quem sou
+![](https://komarev.com/ghpvc/?username=marcelosmoreira&color=7c3aed&style=for-the-badge&label=VISITANTES)
 
-Desenvolvedor fullstack com experiência em múltiplas linguagens e bancos de dados relacionais. Trabalho em todas as camadas do software — da modelagem do banco à interface do usuário — com foco em entregar soluções que funcionam de verdade.
+</div>
+
+---
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosmoreira&layout=donut&theme=midnight-purple&hide_border=true&langs_count=6" width="280" />
+
+### 🧠 Sobre mim
+
+```java
+var eu = new Dev()
+  .nome("Marcelo Sampaio")
+  .local("Brasil 🇧🇷")
+  .foco("Soluções fullstack de ponta a ponta")
+  .filosofia("Menos complexidade, mais resultado")
+  .bancos(List.of(
+      "PostgreSQL", "MySQL",
+      "SQLite",     "Firebird"
+  ));
+```
 
 <br/>
-
-### 🧰 Stack
-
-| Camada | Tecnologias |
-|---|---|
-| **Linguagens** | Java · JavaScript · TypeScript · Python · HTML · CSS |
-| **Banco de Dados** | PostgreSQL · MySQL · SQLite · Firebird |
-
+<br/>
 <br/>
 
-### 📊 Atividade
+---
+
+### ⚙️ Tecnologias
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=marcelosmoreira&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosmoreira&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebird](https://img.shields.io/badge/Firebird-FF6600?style=for-the-badge&logo=databricks&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=marcelosmoreira&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=marcelosmoreira&theme=midnight-purple&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" height="170"/>
+
+</div>
+
+---
+
+### 📬 Onde me encontrar
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelosampaiom/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelosampaiocontato@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcelosmoreira)
 
 </div>
 
 <br/>
 
-### 📬 Contato
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelosampaiom)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marcelosampaiocontato@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,12&height=120&section=footer&animation=fadeIn"/>
 
-<br/>
-
-![footer](https://capsule-render.vercel.app/api?type=rect&color=0:24243e,50:302b63,100:0f0c29&height=6)
+</div>
