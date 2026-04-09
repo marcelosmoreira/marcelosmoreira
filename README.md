@@ -1,57 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Olá,%20eu%20sou%20[Seu%20Nome]!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20•%20Criador%20de%20Soluções&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Marcelo%20Sampaio&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20•%20Java%20•%20Python%20•%20TypeScript&descAlignY=55&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack+apaixonado+%F0%9F%9A%80;Transformando+ideias+em+c%C3%B3digo+%F0%9F%92%A1;Sempre+aprendendo+algo+novo+%F0%9F%93%9A;Open+source+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6E57F7&center=true&vCenter=true&width=650&lines=Transformando+requisitos+em+software+que+funciona+%F0%9F%9A%80;Backend+robusto+%2B+Frontend+que+entrega+%F0%9F%8E%AF;Do+banco+de+dados+ao+browser%2C+de+ponta+a+ponta+%F0%9F%94%A5;Código+limpo%2C+solução+real%2C+resultado+no+prazo+%E2%9C%85)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🙋‍♂️ Sobre mim
+## 👨‍💻 Sobre mim
 
-```typescript
-const dev = {
-  nome:        "[Seu Nome]",
-  localização: "Brasil 🇧🇷",
-  foco:        "Fullstack Development",
-  atualmente:  "Trabalhando em projetos incríveis ✨",
-  buscando:    "Colaborações e novos desafios",
-  hobby:       ["Café ☕", "Open Source", "Estudar novas tecnologias"],
-};
+```java
+public class MarceloSampaio extends FullstackDeveloper {
+
+    String localização  = "Brasil 🇧🇷";
+    String foco         = "Construir software que resolve problemas reais";
+    String filosofia    = "Menos abstração, mais entrega";
+    String[] interesses = {"Arquitetura de sistemas", "APIs robustas", "Banco de dados"};
+
+    @Override
+    public String comoTrabalho() {
+        return "Entendo o problema, projeto a solução, escrevo o código.";
+    }
+}
 ```
 
-- 🔭 Atualmente trabalhando em **[seu projeto ou empresa]**
-- 🌱 Aprendendo **[tecnologia que está estudando]**
-- 👯 Aberto(a) para colaborar em **projetos open source**
-- 💬 Me pergunte sobre **[suas especialidades]**
-- 📫 Contato: **[seu email]**
-- ⚡ Fun fact: **[algo curioso sobre você]**
+- 🎯 Foco total em **entregar resultado** — sem over-engineering
+- 🔩 Confortável em qualquer camada: banco, API, interface
+- 🗃️ Experiência com múltiplos bancos relacionais em produção
+- 🤝 Aberto a colaborações e projetos desafiadores
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+### Linguagens
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### DevOps & Ferramentas
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+### Bancos de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebird](https://img.shields.io/badge/Firebird-FF6600?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Ferramentas & Ambiente
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -66,13 +68,13 @@ const dev = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏆 Troféus GitHub
+## 🏆 Troféus
 
 <div align="center">
 
@@ -93,14 +95,13 @@ const dev = {
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Contato
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_USUARIO)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seu-portfolio.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seu-portfolio.com)
 
 </div>
 
