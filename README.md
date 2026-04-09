@@ -14,8 +14,6 @@
 
 ---
 
-<img align="right" width="280" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marcelosmoreira&layout=donut&theme=midnight-purple&hide_border=true" />
-
 ### 🧠 Sobre mim
 
 ```java
@@ -59,8 +57,6 @@ var eu = new Dev()
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=marcelosmoreira&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
 
 <img src="https://streak-stats.demolab.com?user=marcelosmoreira&theme=midnight-purple&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" height="170"/>
 
