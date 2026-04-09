@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosmoreira&layout=donut&theme=midnight-purple&hide_border=true&langs_count=6" width="280" />
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosmoreira&layout=donut&theme=midnight-purple&hide_border=true" />
 
 ### 🧠 Sobre mim
 
